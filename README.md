@@ -1,4 +1,3 @@
-
 <!-- ANIMATED HEADER -->
 
 <div align="center">
@@ -17,7 +16,7 @@
 
 ```yaml
 name: Marc Enzo Bitibaly
-location: Burkina Faso 
+Based on: Burkina Faso 
 education: Data & systems security training
 fields:
   - Cybersecurity
