@@ -16,9 +16,9 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: M@rc Enzo Bitibaly
+name: Marc Enzo Bitibaly
 location: Burkina Faso 
-education: Cybersecurity training
+education: Data & systems security training
 fields:
   - Cybersecurity
   - Software Development
@@ -41,51 +41,93 @@ into opportunities to build, improve, and innovate.
 
 ---
 
-## 🎯 What I Do
+
+<h2 align="center">🎯 What I Do</h2>
+
+<p align="center">
+  <i>Exploring technology, building solutions and securing digital environments.</i>
+</p>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 Cybersecurity
-- Information & systems security
-- Network security fundamentals
-- Security awareness
-- Secure system design
+<h3 align="center"> Cybersecurity</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SECURITY-00CFFF?style=flat-square"/>
+</p>
+
+- Information & Data Security
+- Computer Systems Security
+- Network Security
+- Vulnerability Assessment
+- Secure Architecture
+- Cyber Threat Awareness
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Software Development
-- Application development
-- Web technologies
-- Backend development
-- API integration
+<h3 align="center"> Software Engineering</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DEVELOPMENT-0080FF?style=flat-square"/>
+</p>
+
+- Software Design & Development
+- Web Application Development
+- Backend Engineering
+- REST API Development
+- Database Management
+- System Integration
 
 </td>
 </tr>
-<tr>
-<td width="50%">
 
-### 🤖 Artificial Intelligence
-- NLP & emotion detection
-- AI-powered applications
-- Machine learning exploration
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"> Artificial Intelligence</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/INNOVATION-00CFFF?style=flat-square"/>
+</p>
+
+- Machine Learning
+- Natural Language Processing
+- Emotion Recognition
+- AI-powered Applications
+- Intelligent Systems
+- Data-driven Solutions
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Beyond Code
-- Problem solving
-- Team collaboration
+<h3 align="center"> Beyond Technology</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MINDSET-0080FF?style=flat-square"/>
+</p>
+
+- Critical Thinking
+- Problem Solving
+- Project Management
+- Team Collaboration
 - Entrepreneurship
-- Continuous learning
+
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=00CFFF&center=true&vCenter=true&width=650&lines=Think+Securely.+Build+Intelligently.;Technology+with+Purpose.+Innovation+with+Impact."/>
+
+</div>
+
 ---
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -115,11 +157,11 @@ into opportunities to build, improve, and innovate.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=00CFFF&text_color=C9D1D9&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=en-999&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=00CFFF&text_color=C9D1D9&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00CFFF&text_color=C9D1D9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=en-999&layout=compact&hide_border=true&bg_color=0D1117&title_color=00CFFF&text_color=C9D1D9"/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=en-999&theme=tokyonight&hide_border=true&background=0D1117&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF"/>
 
 </div>
 
@@ -129,7 +171,7 @@ into opportunities to build, improve, and innovate.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00CFFF&line=0080FF&point=FFFFFF&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=en-999&bg_color=0D1117&color=00CFFF&line=0080FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
@@ -137,17 +179,35 @@ into opportunities to build, improve, and innovate.
 
 ## 🌐 Connect With Me
 
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <i>Have an idea, a project or just want to talk about technology?</i>
+  <br/>
+  <i>Feel free to reach out!</i>
+</p>
+
 <div align="center">
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/marc-enzo-bitibaly-a2bb22270/)">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00CFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/marc-enzo-bitibaly-a2bb22270/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:enzobitibaly@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="mailto:enzobitibaly@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0080FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00CFFF&section=footer" width="60%"/>
+
+<p>
+  <sub>⚡ Open to collaboration · Always ready to learn</sub>
+</p>
 
 </div>
+
 
 ---
 
