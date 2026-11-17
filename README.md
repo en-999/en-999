@@ -17,7 +17,7 @@
 ```yaml
 name: Marc Enzo Bitibaly
 Based in: Burkina Faso 
-education: Data & systems security training
+education: Software engeneering | Data & systems security training
 fields:
   - Cybersecurity
   - Software Development
