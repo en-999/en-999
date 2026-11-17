@@ -16,17 +16,17 @@
 
 ```yaml
 name: Marc Enzo Bitibaly
-Based on: Burkina Faso 
+Based in: Burkina Faso 
 education: Data & systems security training
 fields:
   - Cybersecurity
   - Software Development
-  - Data & Systems Security
+  - AI
 interests:
   - Artificial Intelligence
   - Secure & scalable systems
   - Problem solving
-  - Technology & innovation
+  - systems & data security
 currently_learning: Always exploring new technologies
 motto: "Building today, securing tomorrow."
 ```
@@ -74,9 +74,7 @@ into opportunities to build, improve, and innovate.
 </p>
 
 - Software Design & Development
-- Web Application Development
-- Backend Engineering
-- REST API Development
+- Web & mobile's Application Development
 - Database Management
 - System Integration
 
