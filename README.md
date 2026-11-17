@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,50:0F172A,100:00BFFF&text=ENZO%20BITIBALY&fontSize=45&fontColor=E0F7FF&fontAlignY=38&desc=Cybersecurity%20%7C%20Software%20Development&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,50:0F172A,100:00BFFF&text=MARC%20ENZO%20BITIBALY&fontSize=45&fontColor=E0F7FF&fontAlignY=38&desc=Cybersecurity%20%7C%20Software%20Development&descAlignY=60&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=650&lines=What's+up%3F+I'm+Enzo+%F0%9F%91%8B;engineer+training+in+Cybersecurity+%F0%9F%94%90;Software+Developer+%F0%9F%92%BB;Passionate+about+technology+and+innovation;Building+today%2C+securing+tomorrow+%E2%9A%A1" />
